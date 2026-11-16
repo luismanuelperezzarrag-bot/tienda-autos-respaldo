@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nombre": "Chevy Pop 2010",
+        "categoria": "Sedán cupé S",
+        "precio": 50000,
+        "descripcion": "Vehículo en excelente estado. Motor modificado, sistema de sonido potente y aire acondicionado muy frío.",
+        "stock": 1,
+        "imagen": "assets/img/sin-foto.svg"
+    },
+    {
+        "id": 2,
+        "nombre": "Nissan Altima 2011",
+        "categoria": "Sedán",
+        "precio": 60000,
+        "descripcion": "Seminuevo, lo usó una maestra. Aire acondicionado muy frío.",
+        "stock": 1,
+        "imagen": "assets/img/sin-foto.svg"
+    },
+    {
+        "id": 3,
+        "nombre": "Chrysler Spirit 1998",
+        "categoria": "Sedán S",
+        "precio": 80000,
+        "descripcion": "Único dueño, aire acondicionado muy frío.",
+        "stock": 1,
+        "imagen": "assets/img/sin-foto.svg"
+    }
+]
