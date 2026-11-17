@@ -1,29 +1,56 @@
 [
-    {
-        "id": 1,
-        "nombre": "Chevy Pop 2010",
-        "categoria": "Sedán cupé S",
-        "precio": 50000,
-        "descripcion": "Vehículo en excelente estado. Motor modificado, sistema de sonido potente y aire acondicionado muy frío.",
-        "stock": 1,
-        "imagen": "assets/img/sin-foto.svg"
-    },
-    {
-        "id": 2,
-        "nombre": "Nissan Altima 2011",
-        "categoria": "Sedán",
-        "precio": 60000,
-        "descripcion": "Seminuevo, lo usó una maestra. Aire acondicionado muy frío.",
-        "stock": 1,
-        "imagen": "assets/img/sin-foto.svg"
-    },
-    {
-        "id": 3,
-        "nombre": "Chrysler Spirit 1998",
-        "categoria": "Sedán S",
-        "precio": 80000,
-        "descripcion": "Único dueño, aire acondicionado muy frío.",
-        "stock": 1,
-        "imagen": "assets/img/sin-foto.svg"
-    }
+  {
+    "id": 1,
+    "nombre": "Chevy Pop 2010",
+    "categoria": "Sedán",
+    "precio": 50000.00,
+    "descripcion": "Vehículo en excelente estado. Motor modificado, sistema de sonido potente y aire acondicionado muy frío.",
+    "stock": 1,
+    "imagen": "assets/img/sin-foto.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Nissan Altima 2011",
+    "categoria": "Sedán",
+    "precio": 60000.00,
+    "descripcion": "Seminuevo, lo usó una maestra. Aire acondicionado muy frío.",
+    "stock": 1,
+    "imagen": "assets/img/sin-foto.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Chrysler Spirit 1998",
+    "categoria": "Sedán",
+    "precio": 80000.00,
+    "descripcion": "Único dueño, aire acondicionado muy frío.",
+    "stock": 0,
+    "imagen": "assets/img/sin-foto.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Ford Escape 2015",
+    "categoria": "SUV",
+    "precio": 185000.00,
+    "descripcion": "Camioneta familiar en excelente estado, papeles en regla y transmisión automática.",
+    "stock": 3,
+    "imagen": "assets/img/sin-foto.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Honda Civic 2013",
+    "categoria": "Deportivo",
+    "precio": 145000.00,
+    "descripcion": "Estilo deportivo, rines de aluminio, quemacocos y excelente rendimiento de combustible.",
+    "stock": 2,
+    "imagen": "assets/img/sin-foto.svg"
+  },
+  {
+    "id": 6,
+    "nombre": "Volkswagen Jetta 2012",
+    "categoria": "Sedán",
+    "precio": 115000.00,
+    "descripcion": "Interiores en piel, factura original, todo pagado y servicios al corriente.",
+    "stock": 4,
+    "imagen": "assets/img/sin-foto.svg"
+  }
 ]
